@@ -30,7 +30,7 @@ With `--trim --dedupe`: 3 input rows become 2 output rows, one cell is trimmed, 
 
 **US$10 total quoted price** for one CSV within those limits, up to two agreed rules from trim and exact-row deduplication, plus the cleaned CSV, change report and runnable script. One correction against the agreed rules is included. No recurring charge. Processor fees may reduce the seller's net receipt.
 
-To request a scope check, [open an issue](https://github.com/kaing0919/Kai-s-portfolio/issues/new?title=CSV%20cleanup%20scope%20request) with column names, approximate row/file size and desired rules. **Do not upload a real private dataset, passwords, customer records, financial data or payment details to a public issue.** Use a synthetic 3–5 row example. A request is not an accepted order and creates no payment obligation.
+To request a scope check, leave a public comment on the [service launch commit](https://github.com/kaing0919/Kai-s-portfolio/commit/677264cfded963ff9f2895bce568b6ca532d0486) with column names, approximate row/file size and desired rules. A GitHub account is required to comment. **Do not upload a real private dataset, passwords, customer records, financial data or payment details to a public comment.** Use a synthetic 3–5 row example. A request is not an accepted order and creates no payment obligation.
 
 After scope and a suitable data-sharing method are agreed, the delivery target is 24 hours after explicit acceptance; at most two accepted orders at once. Payment is by a separately agreed USD PayPal invoice after the synthetic sample is approved. No automatic checkout is enabled here. Payment availability must be confirmed before an order is accepted; never send money to an address found in a comment claiming to be the seller.
 
